@@ -1,0 +1,6 @@
+*.pyc
+
+# Folder view configuration files
+.DS_Store
+
+.Trashes
